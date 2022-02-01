@@ -23,3 +23,7 @@ MIT.
 ## Credits
 
 - Uses the [genkgo/camt](https://github.com/genkgo/camt) parser.
+
+## Author
+
+Christian Studer, [Bureau für digitale Existenz](https://bureau.existenz.ch)
