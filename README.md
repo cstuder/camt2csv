@@ -8,13 +8,18 @@ Used as a stop-gap measure until Firefly III data importer [can import cam.053 f
 
 ## Usage
 
-`php camt2csv.php filename|directory`
+`php camt2csv.php <input_file|input_directory>`
 
 Converts the file or all `.xml` files in a directory to csv. Writes output files in the same directory, overwriting existing files.
 
 ## Installation
 
 `composer install`
+
+## Links
+
+- [camt0.53 Swiss Implementation Guidelines](https://www.six-group.com/dam/download/banking-services/interbank-clearing/en/standardization/iso/swiss-recommendations/implementation-guidelines-camt.pdf)
+- [Firefly III Data Importer column roles](https://docs.firefly-iii.org/data-importer/usage/roles/#roles)
 
 ## License
 
