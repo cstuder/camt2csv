@@ -1,0 +1,15 @@
+{
+    "name": "cstuder/camt2csv",
+    "description": "PHP script to convert camt.053 files to CSV files intended for Firefly III",
+    "type": "project",
+    "require": {
+        "genkgo/camt": "^2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Studer",
+            "email": "cstuder@existenz.ch"
+        }
+    ]
+}
